@@ -1,0 +1,40 @@
+{
+  "code": 0,
+  "msg": null,
+  "data": [
+    {
+      "id": 1,
+      "projectId": 32,
+      "packageId": 149,
+      "packageName": "英雄互娱--20190828-1",
+      "getNumberType": "多对多",
+      "responseCode": 30041,
+      "responseStatus": "0",
+      "kind": "oneid--mobile",
+      "requestTime": "2019-08-28 14:41:26",
+      "number": 5000,
+      "emptyNumber": 2,
+      "creatorId": 1,
+      "creatorName": "admin",
+      "operateTime": "2019-08-28 14:42:14",
+      "createTime": "2019-08-28 14:42:28"
+    },
+    {
+      "id": 2,
+      "projectId": 32,
+      "packageId": 1,
+      "packageName": "随便起一个吧",
+      "getNumberType": "多对多",
+      "responseCode": 30041,
+      "responseStatus": "0",
+      "kind": "oneid--mobile",
+      "requestTime": "2019-08-28 14:41:26",
+      "number": 5000,
+      "emptyNumber": 2,
+      "creatorId": 1,
+      "creatorName": "admin",
+      "operateTime": "2019-08-28 14:42:14",
+      "createTime": "2019-08-28 14:42:28"
+    }
+  ]
+}
